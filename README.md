@@ -22,4 +22,4 @@
 
 
 
-* Feel free to leave comments since this is my first time works with Myanmar unicodes.
+* Feel free to leave comments since this is my first work with Myanmar unicodes.
