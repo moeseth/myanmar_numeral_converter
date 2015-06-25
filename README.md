@@ -16,3 +16,10 @@
 > To convert Myanmar words to English numerals
 
 ![image](http://i.imgur.com/tv6JS6h.png)
+
+
+
+
+
+
+* Feel free to leave comments since this is my first time works with Myanmar unicodes.
