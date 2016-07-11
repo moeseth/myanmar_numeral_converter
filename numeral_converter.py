@@ -3,7 +3,7 @@
 import sys
 import math
 
-unicode_number_array   = [u"๐", u"၁", u"၂", u"၃", u"၄", u"၅", u"၆", u"၇", u"၈", u"၉"]
+unicode_number_array   = [u"၀", u"၁", u"၂", u"၃", u"၄", u"၅", u"၆", u"၇", u"၈", u"၉"]
 unicode_counting_num   = [u"သုည", u"တစ်", u"နှစ်", u"သုံး", u"လေး", u"ငါး", u"ခြောက်", u"ခုနစ်", u"ရှစ်", u"ကိုး"]
 unicode_counting_array = [u"ဆယ်", u"ရာ", u"ထောင်", u"သောင်း", u"သိန်း"]
 unicode_creaky_tone    = u"့"
@@ -89,7 +89,5 @@ def convert_words_to_num(words):							# convert myanmar words to english number
 if __name__ == "__main__":
 	print convert_english_num_to_mm_num(123456789)
 	print convert_mm_num_to_english_num("၁၂၃၄၅၆၇၈၉")
-	print convert_num_to_words(2323232)
+	print convert_num_to_words(10000)
 	print convert_words_to_num("နှစ်ဆယ့်သုံးသိန်းနှစ်သောင်းသုံးထောင့်နှစ်ရာ့သုံးဆယ့်နှစ်")
-
-
